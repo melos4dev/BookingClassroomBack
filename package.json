@@ -1,5 +1,5 @@
 {
-  "name": "back_ofice",
+  "name": "gestor-aulas-tubalcain",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,17 +8,22 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "firebase": "^9.22.1",
-    "vue": "^2.6.14",
+    "firebase": "^9.21.0",
+    "v-tooltip": "^2.1.3",
+    "vue": "^2.7.0",
     "vue-router": "^3.5.1",
+    "vue-textarea-autosize": "^1.1.1",
     "vuetify": "^2.6.0",
     "vuex": "^3.6.2"
   },
   "devDependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.0",
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-router": "~5.0.0",
     "@vue/cli-plugin-vuex": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
+    "eslint-plugin-vue": "^9.14.1",
+    "material-design-icons-iconfont": "^6.7.0",
     "sass": "~1.32.0",
     "sass-loader": "^10.0.0",
     "vue-cli-plugin-vuetify": "~2.5.8",
